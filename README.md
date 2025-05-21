@@ -27,9 +27,4 @@ This project uses a labeled dataset (`emotions.csv`) of tweets to build an emoti
 - Regular Expressions
 - TF-IDF Vectorization
 
-## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/emotion-classification-svm.git
-   cd emotion-classification-svm
